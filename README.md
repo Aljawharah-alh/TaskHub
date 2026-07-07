@@ -43,13 +43,14 @@ We didn't just design screens — we designed for real team friction:
 
 ## Screenshots
 <p align="center">
-  <img width="2358" height="2440" alt="image" src="https://github.com/user-attachments/assets/cc20fd52-508a-48cc-8742-caf0a6a9d8f7" />
+  <img <img width="2355" height="2440" alt="image" src="https://github.com/user-attachments/assets/d05f4007-8bb8-4225-8e7d-c3796b813de0" />
+ />
 
 </p>
 
 
 ## Try It Yourself
-[Click here to try it →](https://www.figma.com/proto/rl5kE2w8Cg0uFZJoM9qnrZ/HCI_project--Copy-?node-id=2314-1115&t=s5jf3BIZj8ipFntY-1)
+[Click here to try it →](https://www.figma.com/proto/rl5kE2w8Cg0uFZJoM9qnrZ/HCI_project--TaskHub-?node-id=2022-273&starting-point-node-id=2022%3A273)
 
 
 ## Built With
