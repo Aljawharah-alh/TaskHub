@@ -43,10 +43,7 @@ We didn't just design screens — we designed for real team friction:
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/01-get-started.png" width="200"/>
-  <img src="screenshots/02-leader-dashboard.png" width="200"/>
-  <img src="screenshots/03-create-task.png" width="200"/>
-  <img src="screenshots/04-sos-access.png" width="200"/>
+  <img src="screenshots/01-get-started.png" width="200"/
 </p>
 
 
