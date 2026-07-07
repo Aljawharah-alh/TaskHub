@@ -49,6 +49,7 @@ We didn't just design screens — we designed for real team friction:
   <img src="screenshots/04-sos-access.png" width="200"/>
 </p>
 
+
 ## Try It Yourself
 [Click here to try it →](https://www.figma.com/proto/rl5kE2w8Cg0uFZJoM9qnrZ/HCI_project--Copy-?node-id=2314-1115&t=s5jf3BIZj8ipFntY-1)
 
